@@ -1,0 +1,9 @@
+# Stock Rating App — dependencies (all free, no API keys required)
+
+streamlit>=1.33      # web UI / app
+yfinance>=0.2.40     # free market data: price history, financials, analyst data
+pandas>=2.2          # data processing
+numpy>=1.26          # numeric helpers / normalization
+
+# --- dev / testing ---
+pytest>=8.0          # unit tests for the scoring engine
