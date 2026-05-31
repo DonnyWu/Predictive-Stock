@@ -66,6 +66,3 @@ Predictive-Stock/
     ├── analyst.py         # analyst sub-score (1–5)
     └── engine.py          # orchestrates everything -> RatingResult
 ```
-
-> **Status:** Phase 1 complete — environment + data layer (`config.py`, `models.py`, `data.py`).
-> Scoring modules, engine, and UI come in later phases.
